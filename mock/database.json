@@ -89,6 +89,18 @@
       "email": "geronimo@gmail.com",
       "cidadeId": 5,
       "id": 157
+    },
+    {
+      "nomeCompleto": "Leonardo Oliveira",
+      "email": "leonardo.oliveira@kallesoft.com.br",
+      "cidadeId": 5,
+      "id": 158
+    },
+    {
+      "nomeCompleto": "IndigoSoft",
+      "email": "lleonardokale@gmail.com",
+      "cidadeId": 4,
+      "id": 159
     }
   ],
   "cidades": [
@@ -119,6 +131,13 @@
     {
       "nome": "Tramandaí",
       "id": 7
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$WFG4.tfEq9bHD8vLQ2F8Auk8lkvvzUTOSoaJ1raApOSz2FQma3.ZC",
+      "id": 1
     }
   ],
   "auth": {

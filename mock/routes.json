@@ -1,0 +1,8 @@
+{
+  "/api/users": "/users",
+  "/api/pessoas": "/pessoas",
+  "/api/cidades": "/cidades",
+  "/api/auth/login": "/login",
+  "/api/auth/signin": "/signin",
+  "/api/auth/users": "/users"
+}
